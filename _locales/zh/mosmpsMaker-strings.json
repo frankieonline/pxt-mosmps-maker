@@ -1,0 +1,13 @@
+{
+  "mosmpsMaker.initializeWiFi|block": "設置 Wi-Fi 引腳 | TX: %tx| RX: %rx",
+  "mosmpsMaker.setupWifi|block": "連接 Wi-Fi 名稱：%ssid 密碼：%pass",
+  "mosmpsMaker.on_wifi_connected|block": "當 Wi-Fi 成功連接",
+  "mosmpsMaker.on_wifi_disconnected|block": "當 Wi-Fi 斷開連接",
+  "mosmpsMaker.connectMOSMPSMaker|block": "連接 MOSMPS Maker",
+  "mosmpsMaker.restRequest|block": "MOSMPS Maker REST 請求 %api",
+  "mosmpsMaker.restRequestReturn|block": "MOSMPS Maker REST 接收",
+  "mosmpsMaker.getNTP|block": "獲取網絡時間",
+  "{id:category}mosmpsMaker": "MOSMPS Maker",
+  "{id:group}Connection": "連接",
+  "{id:group}Others": "其他"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "MOSMPS Maker",
+  "version": "1.0.0",
+  "description": "Extension for MOSMPS students to connect micro:bit to our school server to finish IoT projects. ",
+  "license": "Frankie Wong @ Tomato 3D Studio 蕃茄工作室",
+  "dependencies": {
+    "core": "*",
+    "microphone": "*"
+  },
+  "files": [
+    "README.md",
+    "main.ts",
+    "_locales/zh/mosmpsMaker-strings.json"
+  ],
+  "public": true,
+  "supportedTargets": [
+    "microbit"
+  ]
+}
