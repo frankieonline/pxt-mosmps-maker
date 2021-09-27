@@ -198,7 +198,6 @@ namespace mosmpsMaker {
   //% block="Get Network Time"
   //% weight=78
   //% group="Others"
-  //% advanced=true
   export function getNTP(type: NtpTimeType): void {
     serial.writeString("WF 7\n")
   }
